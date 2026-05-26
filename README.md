@@ -27,12 +27,6 @@ To implement the Minimax algorithm for decision-making in a two-player game.
 
 ## Test Case
 
-Input board:
-
-X | X |  
-O |   |  
-  |   | O
-
 Expected:
 - AI chooses winning or best possible move
 
